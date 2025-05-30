@@ -31,10 +31,6 @@ To write a Python program that sorts a dictionary's:
 
 ## 🧪Program
 ```
-Developed by:Mohanaprabha S
-Register no:212224040197
-```
-```
 def dictionairy(): 
 # Declaring hash function      
 key_value ={}    
@@ -52,8 +48,6 @@ print ("Keys and Values sorted",
 print(sorted(key_value.items(), key = 
 lambda kv:(kv[1], kv[0])))
 ```
-
-
 ## Sample Output
 
 ![image](https://github.com/user-attachments/assets/9de6611f-0735-465f-9c5e-7703a085e747)
