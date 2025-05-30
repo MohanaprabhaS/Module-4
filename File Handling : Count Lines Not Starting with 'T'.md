@@ -13,10 +13,6 @@ To write a Python program that counts the number of lines in a text file `story.
 
 ## 🧾 Program
 ```
-Developed by:Mohanaprabha S
-Register no:212224040197
-```
-```
 f=open("story.txt","r") 
 count=0 
 for lines in f: 
